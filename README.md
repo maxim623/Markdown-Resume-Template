@@ -10,7 +10,7 @@
 
 ## 工作及教育经历
 
-* 新南威尔士大学&emsp;&emsp;&emsp;&emsp;&emsp;2022.2~2023.9&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
+* 新南威尔士大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022.2~2023.9&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
 * 北京邮电大学大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2019.7&emsp;&emsp;&emsp;&emsp; 信息工程-本科  
 
 ## 专业技能
