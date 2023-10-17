@@ -5,7 +5,7 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：26  
-* 手 机：15611110155 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：maximwork623@outlook.com    
+* 手 机：15611110155 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：maximwork623@outlook.com    
 * 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
 ## 工作及教育经历
